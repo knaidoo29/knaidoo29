@@ -15,23 +15,22 @@ I've written a bunch of software libraries which are in various stages of develo
 These are libraries which I have spent a considerable amount of time developing and have appeared in some of my research work (paper's and PhD thesis).
 
 > #### General
->
-> * [twofast](https://github.com/knaidoo29/twofast)[^1] - Two point correlation function estimator in c++ with OpenMPI parallelisation and python management class for generating input files and running it.
->
+
+* [twofast](https://github.com/knaidoo29/twofast)[^1] - Two point correlation function estimator in c++ with OpenMPI parallelisation and python management class for generating input files and running it.
+
 > #### Cosmology
->
-> * [pyGenISW](https://github.com/knaidoo29/pyGenISW) - Computes the Integrated Sachs-Wolfe using spherical Bessel transforms for data provided in healpix redshift slices.
-> * [TheoryCL](https://github.com/knaidoo29/TheoryCL) - Computing auto- and cross-angular power spectra (cl)s for sources in the late universe.
+
+* [pyGenISW](https://github.com/knaidoo29/pyGenISW) - Computes the Integrated Sachs-Wolfe using spherical Bessel transforms for data provided in healpix redshift slices.
+* [TheoryCL](https://github.com/knaidoo29/TheoryCL) - Computing auto- and cross-angular power spectra (cl)s for sources in the late universe.
 
 ### Libraries in development
 
-> #### General
->
-> * [fiesta](https://github.com/knaidoo29/fiesta)[^2] - A python library for interpolating fields in 1 to 3 dimensions.
-> * [knpy](https://github.com/knaidoo29/knpy) - Personal python library.
-> * [magpie](https://github.com/knaidoo29/magpie)[^2] - A python library for remapping pixels into different projections.
-> * [MPIutils](https://github.com/knaidoo29/MPIutils) - A python library for interacting with mpi4py and running basic MPI operations.
-> * [shift](https://github.com/knaidoo29/shift)[^2] - A python library for performing Fourier transforms defined in polar and spherical polar coordinates.
+
+* [fiesta](https://github.com/knaidoo29/fiesta)[^2] - A python library for interpolating fields in 1 to 3 dimensions.
+* [knpy](https://github.com/knaidoo29/knpy) - Personal python library.
+* [magpie](https://github.com/knaidoo29/magpie)[^2] - A python library for remapping pixels into different projections.
+* [MPIutils](https://github.com/knaidoo29/MPIutils) - A python library for interacting with mpi4py and running basic MPI operations.
+* [shift](https://github.com/knaidoo29/shift)[^2] - A python library for performing Fourier transforms defined in polar and spherical polar coordinates.
 
 ### Footnotes
 
