@@ -23,16 +23,17 @@ These are libraries which I have spent a considerable amount of time developing 
 > * [pyGenISW](https://github.com/knaidoo29/pyGenISW) - Computes the Integrated Sachs-Wolfe using spherical Bessel transforms for data provided in healpix redshift slices.
 > * [TheoryCL](https://github.com/knaidoo29/TheoryCL) - Computing auto- and cross-angular power spectra (cl)s for sources in the late universe.
 
-### In-development
+### Libraries in development
 
 > #### General
 >
-> * [fiesta](https://github.com/knaidoo29/fiesta) - A python library for interpolating fields in 1 to 3 dimensions.
-> * [magpie](https://github.com/knaidoo29/magpie) - A python library for remapping pixels into different projections.
-> * [shift](https://github.com/knaidoo29/shift) - A python library for performing Fourier transforms defined in polar and spherical polar coordinates.
-
-* [knpy](https://github.com/knaidoo29/knpy) - Personal python library.
+> * [fiesta](https://github.com/knaidoo29/fiesta)[^2] - A python library for interpolating fields in 1 to 3 dimensions.
+> * [knpy](https://github.com/knaidoo29/knpy) - Personal python library.
+> * [magpie](https://github.com/knaidoo29/magpie)[^2] - A python library for remapping pixels into different projections.
+> * [MPIutils](https://github.com/knaidoo29/MPIutils) - A python library for interacting with mpi4py and running basic MPI operations.
+> * [shift](https://github.com/knaidoo29/shift)[^2] - A python library for performing Fourier transforms defined in polar and spherical polar coordinates.
 
 ### Footnotes
 
-[^1]: Twofast is not highly optimised.
+[^1]: This is a brute force two point estimator with MPI parallelisation. Future releases (probably moving to new software) will work to make this more optimised by limiting the number of pairs of points which are cycled through.
+[^2]: Heavy development with a plan to publish with peer-review in the future.
