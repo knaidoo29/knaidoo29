@@ -4,7 +4,7 @@ Hi, I'm a postdoc at the Center for Theoretical Physics at the Polish Academy of
 
 I love to write code and find myself continuously developing new libraries and analysis pipelines. This is driven by a desire to know how things work and to exploit this knowledge for performance and to push beyond the boundaries of existing status quo software.
 
-I've written a bunch of software libraries which are in various stages of development, you may find some of these useful in your own work. A brief guide on what's available and their various stages of development and future plans are provided below.
+I've written a bunch of software libraries (predominantly in python) which are in various stages of development, you may find some of these useful in your own work. A brief guide on what's available and their various stages of development and future plans are provided below.
 
 ### Peer-reviewed libraries
 
@@ -27,9 +27,10 @@ These are libraries which I have spent a considerable amount of time developing 
 
 
 * [fiesta](https://github.com/knaidoo29/fiesta)[^2] - A python library for interpolating fields in 1 to 3 dimensions.
+* [filetools](https://github.com/knaidoo29/filetools) - A python library for opening various file formats with MPI.
 * [knpy](https://github.com/knaidoo29/knpy) - Personal python library.
 * [magpie](https://github.com/knaidoo29/magpie)[^2] - A python library for remapping pixels into different projections.
-* [MPIutils](https://github.com/knaidoo29/MPIutils) - A python library for interacting with mpi4py and running basic MPI operations.
+* [MPIutils](https://github.com/knaidoo29/MPIutils) - A python library for interacting with mpi4py and running basic MPI operations. Other MPI enabled python libraries written by me use the class `MPIutils.MPI` for MPI parallelisation.
 * [shift](https://github.com/knaidoo29/shift)[^2] - A python library for performing Fourier transforms defined in polar and spherical polar coordinates.
 
 ### Footnotes
