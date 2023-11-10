@@ -1,6 +1,6 @@
 # Krishna Naidoo - Github Repository
 
-Hi, I'm a postdoc at the Center for Theoretical Physics at the Polish Academy of Sciences (CFT PAN) in Warsaw. I work broadly in the area of cosmology working on the cosmic web and high order statistics method such as the minimum spanning tree (for which I developed the python library mistree) and constrained simulations of the local universe.
+Hi, I'm a research fellow on the ESA Euclid mission at University College London. I work broadly in the area of cosmology working on the cosmic web and high order statistics method such as the minimum spanning tree (for which I developed the python library mistree) and constrained simulations of the local universe.
 
 I love to write code and find myself continuously developing new libraries and analysis pipelines. This is driven by a desire to know how things work and to exploit this knowledge for performance and to push beyond the boundaries of existing status quo software.
 
